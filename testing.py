@@ -24,4 +24,4 @@ for x in [1, 2, 3, 4]:
 newfunc()
 
 for y in range(1,10):
-    print "The value of Y = {}".format(y)
+    print "The value of y is {}".format(y)
